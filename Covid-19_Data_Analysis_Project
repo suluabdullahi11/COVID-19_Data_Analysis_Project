@@ -1,0 +1,42 @@
+README.md
+COVID-19 Data Analysis Project
+Description
+This project aims to analyze COVID-19 data using SQL queries to provide insights into confirmed cases, deaths, recoveries, and trends across different countries and WHO regions. The queries are designed for beginner and intermediate levels, helping users understand key statistics related to the pandemic, such as the total number of confirmed cases, deaths, recoveries, and the weekly trends of new cases and deaths.
+
+Features
+Beginner-Level Queries
+Top 5 Countries by Confirmed Cases: Identify the top 5 countries with the highest number of confirmed COVID-19 cases.
+WHO Region with Most Deaths: Find out which WHO region has the highest number of total deaths.
+New Deaths Last Week: Retrieve the number of new deaths reported in the last week for each country/region.
+Active Cases Percentage: Calculate the percentage of active cases compared to confirmed cases for each country/region.
+WHO Region with Most Recovered Cases: Identify the WHO region with the highest number of recovered cases.
+Weekly Death Comparison: Compare the total number of deaths this week versus last week for each country/region.
+Total New Cases Last Week: Get the total number of new cases reported last week across all countries/regions.
+Countries with Zero New Deaths: Find how many countries/regions reported zero new deaths this week.
+WHO Region with Fewest Confirmed Cases: Identify the WHO region with the lowest number of confirmed cases.
+Recoveries for Countries with <1000 Confirmed Cases: Calculate the total recoveries for countries/regions with fewer than 1,000 confirmed cases.
+Average New Cases by Country/Region: Find the average number of new cases reported per country/region.
+Largest Increase in Confirmed Cases: Identify which country/region experienced the largest increase in confirmed cases from last week to this week.
+Top 3 Countries by Confirmed Cases: Get the total number of confirmed cases in the top 3 countries/regions with the highest cases.
+Highest New Recovery Rate: Determine which country/region has the highest new recovery rate.
+Total Confirmed Cases: Retrieve the total number of confirmed cases by country/region.
+Total Deaths and Recoveries by WHO Region: Analyze the total number of deaths and recoveries by WHO region.
+Highest Number of New Cases in the Last Week: Find the country/region with the highest number of new cases in the last week.
+Most Significant Change in Confirmed Cases: Identify countries with the most significant change in confirmed cases over the past week.
+Highest Number of New Deaths: Retrieve the countries with the highest number of new deaths.
+Percentage of Active Cases: Calculate the percentage of active cases compared to confirmed cases by country/region.
+Recovery Rate: Get the recovery rate by country/region.
+Weekly Change in Confirmed Cases: Analyze the weekly change in confirmed cases for a specific country/region.
+Average New Cases and Deaths by WHO Region: Calculate the average number of new cases and new deaths by WHO region.
+Countries with the Newest Recoveries: Find countries with the most recent recoveries.
+Intermediate-Level Queries
+Average New Cases per Country/Region: Determine the average number of new cases reported per country/region.
+Largest Increase in Confirmed Cases: Identify which country/region experienced the largest increase in confirmed cases.
+Percentage of Active Cases: Calculate the percentage of active cases for each country/region.
+Average Deaths per WHO Region: Find the average number of deaths reported per WHO region.
+Country/Region with Most Active Cases: Identify the country/region with the highest number of active cases.
+Total New Deaths by WHO Region: Retrieve the total number of new deaths reported by each WHO region.
+Countries with Zero New Deaths: Determine how many countries/regions reported zero new deaths this week.
+Average New Cases in Top 5 WHO Regions: Calculate the average number of new cases reported in the top 5 WHO regions.
+Weekly New Recoveries Comparison: Compare the new recoveries reported this week versus last week for each country/region.
+Total Active Cases in Bottom 10 Countries: Find the total number of active cases reported in the bottom 10 countries/regions by confirmed cases.
